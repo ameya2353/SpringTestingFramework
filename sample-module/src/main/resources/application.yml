@@ -1,0 +1,8 @@
+spring:
+  profiles:
+    active: local
+
+application:
+  url: https://www.google.com
+
+browser: CHROME
